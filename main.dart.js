@@ -91039,7 +91039,7 @@ return new A.LA(new A.ahF(2,12,12,2.4,p),n,p,B.av,!1,p,p,B.Ni,!0,p,o,B.a_,p,p,B.
 a7k(){var s,r,q,p,o,n=this,m=null,l=n.c
 l.toString
 l=A.bl("G\xe9n\xe9rer des codes gratuits",m,m,m,A.S(l).ok.w,m,m)
-s=A.ax8(B.HU,n.y,B.L_,new A.apQ(n),t.N)
+s=A.ax8(B.HV,n.y,B.L_,new A.apQ(n),t.N)
 r=t.p
 q=A.hx(A.c([A.mL(A.CW(m,B.co,!1,m,!0,B.y,m,A.a04(),n.Q,m,m,m,m,m,2,B.HX,B.a_,!0,m,!0,m,!1,m,B.bQ,m,m,A.c([$.aHA()],t.VS),m,B.T3,m,m,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.bp,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.as,m,B.ee,m,m,m,m)),B.RT,A.mL(A.CW(m,B.co,!1,m,!0,B.y,m,A.a04(),n.z,m,m,m,m,m,2,B.I_,B.a_,!0,m,!0,m,!1,m,B.bQ,m,m,m,m,m,m,m,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.bp,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.as,m,B.ee,m,m,m,m))],r),B.af,B.N,B.a2,0)
 p=n.as?m:n.ga98()
@@ -91721,7 +91721,7 @@ p=A.c([q,B.lT,A.oS(l,A.dJ(A.c([A.bl("Sans portail captif ?",l,l,l,A.cU(l,l,B.EU,
 if(m.y)B.b.P(p,A.c([B.c6,B.nh,B.bA,B.Y4],n))
 p.push(B.lT)
 q=A.jD(12)
-p.push(A.oS(l,A.dJ(A.c([A.hx(A.c([A.tI(B.Hj,B.h4,l,18),B.RU,A.bl("Se connecter avec un code",l,l,l,A.cU(l,l,B.nK,l,l,l,l,l,l,l,l,l,l,l,B.cl,l,l,!0,l,l,l,l,l,l,l,l),l,l)],n),B.af,B.hO,B.a2,0),B.A3,A.CW(l,B.co,!1,l,!0,B.y,l,A.a04(),m.r,l,l,l,l,l,2,B.HV,B.a_,!0,l,!0,l,!1,l,B.bQ,l,l,l,l,l,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bp,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.as,l,B.SJ,l,l,l,l),B.A3,A.ek(A.axa(B.Au,m.gaeU()),l,1/0)],n),B.af,B.N,B.a2),B.E,l,new A.dW(B.nk,l,l,q,l,l,B.bd),l,l,l,B.jX,l,l,l))
+p.push(A.oS(l,A.dJ(A.c([A.hx(A.c([A.tI(B.Hj,B.h4,l,18),B.RU,A.bl("Se connecter avec un code",l,l,l,A.cU(l,l,B.nK,l,l,l,l,l,l,l,l,l,l,l,B.cl,l,l,!0,l,l,l,l,l,l,l,l),l,l)],n),B.af,B.hO,B.a2,0),B.A3,A.CW(l,B.co,!1,l,!0,B.y,l,A.a04(),m.r,l,l,l,l,l,2,B.HU,B.a_,!0,l,!0,l,!1,l,B.bQ,l,l,l,l,l,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bp,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.as,l,B.SJ,l,l,l,l),B.A3,A.ek(A.axa(B.Au,m.gaeU()),l,1/0)],n),B.af,B.N,B.a2),B.E,l,new A.dW(B.nk,l,l,q,l,l,B.bd),l,l,l,B.jX,l,l,l))
 p.push(B.RX)
 p.push(A.bl("Achetez un forfait pour acc\xe9der \xe0 Internet",l,l,l,A.S(a).ok.f,B.bu,l))
 p.push(B.c6)
@@ -95491,8 +95491,8 @@ B.mR=new A.aN(B.l,1,B.q,-1)
 B.aU=new A.ia(4,B.ew,B.mR)
 B.HS=new A.dB(null,null,null,"Nom de l'\xe9tablissement *",null,null,null,null,null,null,"Ex: Caf\xe9 du Centre",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
 B.HT=new A.dB(null,null,null,"E-mail",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
-B.HU=new A.dB(null,null,null,"Dur\xe9e",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
-B.HV=new A.dB(null,null,null,"Code de connexion",null,null,null,null,null,null,"Ex: WIFI-XXXXXX",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
+B.HU=new A.dB(null,null,null,"Code de connexion",null,null,null,null,null,null,"Ex: K7M2P9QR",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
+B.HV=new A.dB(null,null,null,"Dur\xe9e",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
 B.a0l=new A.dB(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
 B.HW=new A.dB(null,null,null,"Adresse MAC du routeur (optionnel)",null,null,null,"Visible sous l'appareil ou dans son interface d'administration.",null,null,"Ex: AA:BB:CC:11:22:33",null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
 B.HX=new A.dB(null,null,null,"Quantit\xe9 (1-50)",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.aU,!0,null,null,null,null)
