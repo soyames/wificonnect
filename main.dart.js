@@ -91554,7 +91554,7 @@ A.IH.prototype={
 Az(a,b,c){return this.aph(a,b,c)},
 aph(a,b,c){var s=0,r=A.Q(t.Jd),q,p=this,o,n,m,l,k,j
 var $async$Az=A.M(function(d,e){if(d===1)return A.N(e,r)
-for(;;)switch(s){case 0:l=A.de("https://wificonnect-api.soyames.com/initiatePayment",0,null)
+for(;;)switch(s){case 0:l=A.de("https://wificonnect-api.soyames.workers.dev/initiatePayment",0,null)
 k=t.N
 j=A.ar(["Content-Type","application/json; charset=UTF-8"],k,k)
 k=A.v(k,t.X)
@@ -91576,7 +91576,7 @@ return A.P($async$Az,r)},
 AP(a,b){return this.aqe(a,b)},
 aqe(a,b){var s=0,r=A.Q(t.P),q,p,o,n,m
 var $async$AP=A.M(function(c,d){if(c===1)return A.N(d,r)
-for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.com/loginWithVoucher",0,null)
+for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.workers.dev/loginWithVoucher",0,null)
 o=t.N
 n=A.ar(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91590,7 +91590,7 @@ return A.P($async$AP,r)},
 AO(a,b,c){return this.aqd(a,b,c)},
 aqd(a,b,c){var s=0,r=A.Q(t.P),q,p,o,n,m
 var $async$AO=A.M(function(d,e){if(d===1)return A.N(e,r)
-for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.com/loginWithAccount",0,null)
+for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.workers.dev/loginWithAccount",0,null)
 o=t.N
 n=A.ar(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91604,7 +91604,7 @@ return A.P($async$AO,r)},
 w2(a){return this.ZG(a)},
 ZG(a){var s=0,r=A.Q(t.P),q,p,o,n,m
 var $async$w2=A.M(function(b,c){if(b===1)return A.N(c,r)
-for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.com/getAccessStatus",0,null)
+for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.workers.dev/getAccessStatus",0,null)
 o=t.N
 n=A.ar(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91620,7 +91620,7 @@ return A.P($async$w2,r)},
 BA(a,b,c,d,e,f,g,h,i){return this.ask(a,b,c,d,e,f,g,h,i)},
 ask(a,b,c,d,e,f,g,h,i){var s=0,r=A.Q(t.P),q,p,o,n,m
 var $async$BA=A.M(function(j,k){if(j===1)return A.N(k,r)
-for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.com/registerOperator",0,null)
+for(;;)switch(s){case 0:p=A.de("https://wificonnect-api.soyames.workers.dev/registerOperator",0,null)
 o=t.N
 n=A.ar(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91636,7 +91636,7 @@ ZW(a){var s=0,r=A.Q(t.P),q,p,o
 var $async$wa=A.M(function(b,c){if(b===1)return A.N(c,r)
 for(;;)switch(s){case 0:p=t.N
 s=3
-return A.T(A.aUL(A.de("https://wificonnect-api.soyames.com/operator/"+a,0,null),A.ar(["Content-Type","application/json; charset=UTF-8"],p,p)),$async$wa)
+return A.T(A.aUL(A.de("https://wificonnect-api.soyames.workers.dev/operator/"+a,0,null),A.ar(["Content-Type","application/json; charset=UTF-8"],p,p)),$async$wa)
 case 3:o=c
 if(o.b===200){q=t.P.a(B.aP.o0(0,A.wI(A.wA(o.e)).e4(0,o.w),null))
 s=1
