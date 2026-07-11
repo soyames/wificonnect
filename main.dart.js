@@ -90992,7 +90992,7 @@ r=j.w
 if(r==null)r=A.u(t.N,t.z)
 q=j.gadM()
 p=t.p
-o=A.J1(A.c([A.zv(i,i,B.Ho,i,i,q,i,i,"Actualiser"),A.zv(i,i,B.Hp,i,i,j.gadS(),i,i,"D\xe9connexion")],p),B.bw,i,i,B.k,B.XG)
+o=A.J1(A.c([A.zv(i,i,B.Ho,i,i,q,i,i,"Actualiser"),A.zv(i,i,B.Hp,i,i,j.gadS(),i,i,"D\xe9connexion")],p),B.bw,i,i,B.k,B.XF)
 s=j.afm(s)
 n=j.aio(r)
 m=j.a7k()
@@ -91044,7 +91044,7 @@ r=t.p
 q=A.hx(A.c([A.mL(A.CW(m,B.co,!1,m,!0,B.y,m,A.a04(),n.Q,m,m,m,m,m,2,B.HX,B.a_,!0,m,!0,m,!1,m,B.bQ,m,m,A.c([$.aHA()],t.VS),m,B.T3,m,m,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.bp,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.as,m,B.ee,m,m,m,m)),B.RT,A.mL(A.CW(m,B.co,!1,m,!0,B.y,m,A.a04(),n.z,m,m,m,m,m,2,B.I_,B.a_,!0,m,!0,m,!1,m,B.bQ,m,m,m,m,m,m,m,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,!1,m,!0,m,B.bp,m,m,m,m,m,m,m,m,m,m,m,m,!0,B.as,m,B.ee,m,m,m,m))],r),B.af,B.N,B.a2,0)
 p=n.as?m:n.ga98()
 o=A.Lh(B.bw,m,m,m)
-return A.hU(new A.bo(B.cG,A.dJ(A.c([l,B.iu,B.Y1,B.ah,s,B.ah,q,B.ah,A.ek(A.a5r(n.as?B.RV:B.Hu,B.XD,p,o),m,1/0)],r),B.aM,B.N,B.a2),m),m,m,m)},
+return A.hU(new A.bo(B.cG,A.dJ(A.c([l,B.iu,B.Y1,B.ah,s,B.ah,q,B.ah,A.ek(A.a5r(n.as?B.RV:B.Hu,B.XC,p,o),m,1/0)],r),B.aM,B.N,B.a2),m),m,m,m)},
 tv(){var s=0,r=A.P(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i,h,g,f,e,d,c
 var $async$tv=A.K(function(a,b){if(a===1){o.push(b)
 s=p}for(;;)switch(s){case 0:e=A.ut(B.c.dF(m.Q.a.a),null)
@@ -91243,7 +91243,7 @@ $0(){return this.a.q6(this.b)},
 $S:0}
 A.aq4.prototype={
 $1(a){var s=null,r=A.bl("Le code "+this.a+" ne pourra plus \xeatre utilis\xe9.",s,s,s,s,s,s)
-return A.awE(A.c([A.qT(B.XW,new A.aq2(a),s),A.axf(B.XF,new A.aq3(a),A.Lh(B.v7,s,s,s))],t.p),r,B.XX)},
+return A.awE(A.c([A.qT(B.XW,new A.aq2(a),s),A.axf(B.XE,new A.aq3(a),A.Lh(B.v7,s,s,s))],t.p),r,B.XX)},
 $S:117}
 A.aq2.prototype={
 $0(){A.i9(this.a,!1).n7(!1)
@@ -91474,8 +91474,8 @@ p=this.c
 p.toString
 o=t.p
 p=A.hU(new A.bo(B.bp,A.dJ(A.c([q,B.ah,A.bl("F\xe9licitations, "+m+"!",n,n,n,A.S(p).ok.r,B.bu,n),B.bA,B.Y5,B.ah,A.ek(A.a5r(B.Hr,B.Xn,new A.aq8(),A.Lh(B.bw,n,n,n)),n,1/0)],o),B.af,B.N,B.a2),n),B.nL,n,n)
-m=A.hU(new A.bo(B.cG,A.dJ(A.c([B.Ar,B.bA,A.ay4(l,A.cU(n,n,B.fZ,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n)),B.ah,A.hx(A.c([A.mL(A.axR(B.Ht,B.Xu,new A.aq9(this,l),n)),B.A1,A.mL(A.a5r(B.Hm,B.At,new A.aqa(l),n))],o),B.af,B.N,B.a2,0)],o),B.aM,B.N,B.a2),n),n,n,n)
-q=A.c([B.Xs,B.bA,B.Xw,B.ah,B.XE,B.bA,B.Xt,B.ah],o)
+m=A.hU(new A.bo(B.cG,A.dJ(A.c([B.Ar,B.bA,A.ay4(l,A.cU(n,n,B.fZ,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n)),B.ah,A.hx(A.c([A.mL(A.axR(B.Ht,B.Xt,new A.aq9(this,l),n)),B.A1,A.mL(A.a5r(B.Hm,B.At,new A.aqa(l),n))],o),B.af,B.N,B.a2,0)],o),B.aM,B.N,B.a2),n),n,n,n)
+q=A.c([B.Xs,B.bA,B.Xv,B.ah,B.XD,B.bA,B.XG,B.ah],o)
 B.b.P(q,J.jA(r,new A.aqb(),t.l7))
 return A.OH(s,A.ahr(A.fE(new A.e9(B.mT,A.dJ(A.c([p,B.c6,m,B.c6,A.hU(new A.bo(B.cG,A.dJ(q,B.aM,B.N,B.a2),n),n,n,n)],o),B.bX,B.N,B.a2),n),n,n),B.bp))}}
 A.aqu.prototype={
@@ -91820,7 +91820,7 @@ A.xr.prototype={
 AI(a,b,c){return this.apK(a,b,c)},
 apK(a,b,c){var s=0,r=A.P(t.Jd),q,p=this,o,n,m,l,k,j,i,h,g
 var $async$AI=A.K(function(d,e){if(d===1)return A.M(e,r)
-for(;;)switch(s){case 0:i=A.da("https://wificonnect-api.soyames.workers.dev/initiatePayment",0,null)
+for(;;)switch(s){case 0:i=A.da("https://wificonnect-api.soyames.com/initiatePayment",0,null)
 h=t.N
 g=A.aj(["Content-Type","application/json; charset=UTF-8"],h,h)
 h=A.u(h,t.X)
@@ -91846,7 +91846,7 @@ return A.O($async$AI,r)},
 AZ(a,b){return this.aqH(a,b)},
 aqH(a,b){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$AZ=A.K(function(c,d){if(c===1)return A.M(d,r)
-for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.workers.dev/loginWithVoucher",0,null)
+for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.com/loginWithVoucher",0,null)
 o=t.N
 n=A.aj(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91860,7 +91860,7 @@ return A.O($async$AZ,r)},
 w9(a){return this.a_a(a)},
 a_a(a){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$w9=A.K(function(b,c){if(b===1)return A.M(c,r)
-for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.workers.dev/getAccessStatus",0,null)
+for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.com/getAccessStatus",0,null)
 o=t.N
 n=A.aj(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91876,7 +91876,7 @@ return A.O($async$w9,r)},
 BL(a,b,c,d,e,f,g,h,i,j,k,l,m){return this.asO(a,b,c,d,e,f,g,h,i,j,k,l,m)},
 asO(a,b,c,d,e,f,g,h,i,j,k,l,a0){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$BL=A.K(function(a1,a2){if(a1===1)return A.M(a2,r)
-for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.workers.dev/registerOperator",0,null)
+for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.com/registerOperator",0,null)
 o=t.N
 n=A.aj(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91892,7 +91892,7 @@ a_s(a){var s=0,r=A.P(t.P),q,p,o
 var $async$wh=A.K(function(b,c){if(b===1)return A.M(c,r)
 for(;;)switch(s){case 0:p=t.N
 s=3
-return A.R(A.aVi(A.da("https://wificonnect-api.soyames.workers.dev/operator/"+a,0,null),A.aj(["Content-Type","application/json; charset=UTF-8"],p,p)),$async$wh)
+return A.R(A.aVi(A.da("https://wificonnect-api.soyames.com/operator/"+a,0,null),A.aj(["Content-Type","application/json; charset=UTF-8"],p,p)),$async$wh)
 case 3:o=c
 if(o.b===200){q=t.P.a(B.ae.jH(0,A.kE(A.kC(o.e)).dm(0,o.w),null))
 s=1
@@ -91904,7 +91904,7 @@ return A.O($async$wh,r)},
 AY(a,b){return this.aqG(a,b)},
 aqG(a,b){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$AY=A.K(function(c,d){if(c===1)return A.M(d,r)
-for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.workers.dev/loginOperator",0,null)
+for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.com/loginOperator",0,null)
 o=t.N
 n=A.aj(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -91918,7 +91918,7 @@ return A.O($async$AY,r)},
 Bq(a){return this.as5(a)},
 as5(a){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$Bq=A.K(function(b,c){if(b===1)return A.M(c,r)
-for(;;)switch(s){case 0:n=A.da("https://wificonnect-api.soyames.workers.dev/operatorDashboard",0,null)
+for(;;)switch(s){case 0:n=A.da("https://wificonnect-api.soyames.com/operatorDashboard",0,null)
 m=t.N
 m=A.aj(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "+a],m,m)
 p=t.z
@@ -91933,7 +91933,7 @@ return A.O($async$Bq,r)},
 zA(a,b,c,d){return this.amM(a,b,c,d)},
 amM(a,b,c,d){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$zA=A.K(function(e,f){if(e===1)return A.M(f,r)
-for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.workers.dev/createFreeCode",0,null)
+for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.com/createFreeCode",0,null)
 o=t.N
 n=A.aj(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "+d],o,o)
 s=3
@@ -91947,7 +91947,7 @@ return A.O($async$zA,r)},
 AS(a){return this.aqv(a)},
 aqv(a){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$AS=A.K(function(b,c){if(b===1)return A.M(c,r)
-for(;;)switch(s){case 0:n=A.da("https://wificonnect-api.soyames.workers.dev/listCodes",0,null)
+for(;;)switch(s){case 0:n=A.da("https://wificonnect-api.soyames.com/listCodes",0,null)
 m=t.N
 m=A.aj(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "+a],m,m)
 p=t.z
@@ -91962,7 +91962,7 @@ return A.O($async$AS,r)},
 BU(a,b){return this.ate(a,b)},
 ate(a,b){var s=0,r=A.P(t.P),q,p,o,n,m
 var $async$BU=A.K(function(c,d){if(c===1)return A.M(d,r)
-for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.workers.dev/revokeCode",0,null)
+for(;;)switch(s){case 0:p=A.da("https://wificonnect-api.soyames.com/revokeCode",0,null)
 o=t.N
 n=A.aj(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "+a],o,o)
 s=3
@@ -95693,8 +95693,8 @@ B.XQ=new A.b4("MTN Mobile Money",null,null,null,null,null,null,null,null)
 B.G_=new A.dc("mtn",B.XQ,B.aq,null,t.Q)
 B.Y2=new A.b4("Moov Money",null,null,null,null,null,null,null,null)
 B.G1=new A.dc("moov",B.Y2,B.aq,null,t.Q)
-B.XC=new A.b4("Celtiis Cash",null,null,null,null,null,null,null,null)
-B.G3=new A.dc("celtiis",B.XC,B.aq,null,t.Q)
+B.XB=new A.b4("Celtiis Cash",null,null,null,null,null,null,null,null)
+B.G3=new A.dc("celtiis",B.XB,B.aq,null,t.Q)
 B.Kd=s([B.G_,B.G1,B.G3],t.FG)
 B.AM=new A.vI(0,"topLeft")
 B.AP=new A.vI(3,"bottomRight")
@@ -95748,8 +95748,8 @@ B.p3=s([],t.ee)
 B.Ku=s([],t.XS)
 B.Xr=new A.b4("MikroTik",null,null,null,null,null,null,null,null)
 B.FY=new A.dc("mikrotik",B.Xr,B.aq,null,t.Q)
-B.Xy=new A.b4("TP-Link",null,null,null,null,null,null,null,null)
-B.G2=new A.dc("tplink",B.Xy,B.aq,null,t.Q)
+B.Xx=new A.b4("TP-Link",null,null,null,null,null,null,null,null)
+B.G2=new A.dc("tplink",B.Xx,B.aq,null,t.Q)
 B.XJ=new A.b4("Tenda",null,null,null,null,null,null,null,null)
 B.FW=new A.dc("tenda",B.XJ,B.aq,null,t.Q)
 B.Y9=new A.b4("D-Link",null,null,null,null,null,null,null,null)
@@ -95758,10 +95758,10 @@ B.Yc=new A.b4("Ubiquiti",null,null,null,null,null,null,null,null)
 B.G7=new A.dc("ubiquiti",B.Yc,B.aq,null,t.Q)
 B.XM=new A.b4("Cisco",null,null,null,null,null,null,null,null)
 B.Ga=new A.dc("cisco",B.XM,B.aq,null,t.Q)
-B.Xv=new A.b4("Huawei",null,null,null,null,null,null,null,null)
-B.G5=new A.dc("huawei",B.Xv,B.aq,null,t.Q)
-B.Xz=new A.b4("Starlink",null,null,null,null,null,null,null,null)
-B.G6=new A.dc("starlink",B.Xz,B.aq,null,t.Q)
+B.Xu=new A.b4("Huawei",null,null,null,null,null,null,null,null)
+B.G5=new A.dc("huawei",B.Xu,B.aq,null,t.Q)
+B.Xy=new A.b4("Starlink",null,null,null,null,null,null,null,null)
+B.G6=new A.dc("starlink",B.Xy,B.aq,null,t.Q)
 B.Xj=new A.b4("Autre / Je ne sais pas",null,null,null,null,null,null,null,null)
 B.G8=new A.dc("autre",B.Xj,B.aq,null,t.Q)
 B.KC=s([B.FY,B.G2,B.FW,B.G0,B.G7,B.Ga,B.G5,B.G6,B.G8],t.FG)
@@ -97233,14 +97233,14 @@ B.S4=new A.kj(5,"timeout")
 B.S5=new A.uY(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.XV=new A.b4("Connexion r\xe9ussie ! Acc\xe8s Internet activ\xe9.",null,null,null,null,null,null,null,null)
 B.S6=new A.il(B.XV,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
-B.XA=new A.b4("Veuillez entrer un code de connexion.",null,null,null,null,null,null,null,null)
-B.S7=new A.il(B.XA,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
-B.XB=new A.b4("Entrez votre e-mail et mot de passe.",null,null,null,null,null,null,null,null)
-B.S8=new A.il(B.XB,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
+B.Xz=new A.b4("Veuillez entrer un code de connexion.",null,null,null,null,null,null,null,null)
+B.S7=new A.il(B.Xz,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
+B.XA=new A.b4("Entrez votre e-mail et mot de passe.",null,null,null,null,null,null,null,null)
+B.S8=new A.il(B.XA,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
 B.XP=new A.b4("Paiement en cours de traitement. Entrez votre code TICKET ou r\xe9essayez dans quelques instants.",null,null,null,null,null,null,null,null)
 B.S9=new A.il(B.XP,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
-B.Xx=new A.b4("Lien copi\xe9 dans le presse-papiers.",null,null,null,null,null,null,null,null)
-B.Sa=new A.il(B.Xx,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
+B.Xw=new A.b4("Lien copi\xe9 dans le presse-papiers.",null,null,null,null,null,null,null,null)
+B.Sa=new A.il(B.Xw,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
 B.Xo=new A.b4("Acceptez les conditions et la politique de confidentialit\xe9.",null,null,null,null,null,null,null,null)
 B.Sb=new A.il(B.Xo,null,null,null,null,null,null,null,null,null,null,null,null,B.bg,!1,null,null,null,B.y,null)
 B.A6=new A.Cp(0,"permissive")
@@ -97620,13 +97620,13 @@ B.Xp=new A.b4("Portail cr\xe9\xe9",null,null,null,null,null,null,null,null)
 B.As=new A.b4("Copier",null,null,null,null,null,null,null,null)
 B.Xq=new A.b4("\u2022 ",null,null,null,null,null,null,null,null)
 B.Xs=new A.b4("Configuration routeur (portail captif)",null,B.eh,null,null,null,null,null,null)
-B.Xt=new A.b4("1. IP > Hotspot > Hotspot Setup sur l'interface Wi-Fi\n2. Dans le profil Hotspot, d\xe9finissez \"HTML Directory Override\" ou modifiez login.html pour rediriger vers votre lien portail\n3. IP > Hotspot > Walled Garden : autorisez\n   - wificonnect.soyames.com\n   - *.fedapay.com\n   - wificonnect-api.soyames.workers.dev\n4. Le client paie, re\xe7oit son code TICKET et se connecte.\n\nSi votre \xe9quipement n'a pas de portail captif (ou s'il est bloqu\xe9 par le fournisseur) : affichez simplement le lien portail ou un QR code pr\xe8s de votre point d'acc\xe8s - les clients l'ouvrent dans leur navigateur.",null,null,null,null,null,null,null,null)
-B.Xu=new A.b4("Copier le lien",null,null,null,null,null,null,null,null)
-B.Xw=new A.b4("Dans les param\xe8tres de votre routeur ou point d'acc\xe8s :\n- Activez le portail captif / page de connexion\n- URL de redirection : collez votre lien portail ci-dessus\n- Autorisez l'acc\xe8s \xe0 wificonnect.soyames.com et process.fedapay.com\n- Les clients paient, re\xe7oivent un code TICKET, puis se connectent",null,null,null,null,null,null,null,null)
-B.XD=new A.b4("G\xe9n\xe9rer les codes",null,null,null,null,null,null,null,null)
-B.XE=new A.b4("MikroTik (recommand\xe9)",null,B.eh,null,null,null,null,null,null)
-B.XF=new A.b4("R\xe9voquer",null,null,null,null,null,null,null,null)
-B.XG=new A.b4("Tableau de bord",null,null,null,null,null,null,null,null)
+B.Xt=new A.b4("Copier le lien",null,null,null,null,null,null,null,null)
+B.Xv=new A.b4("Dans les param\xe8tres de votre routeur ou point d'acc\xe8s :\n- Activez le portail captif / page de connexion\n- URL de redirection : collez votre lien portail ci-dessus\n- Autorisez l'acc\xe8s \xe0 wificonnect.soyames.com et process.fedapay.com\n- Les clients paient, re\xe7oivent un code TICKET, puis se connectent",null,null,null,null,null,null,null,null)
+B.XC=new A.b4("G\xe9n\xe9rer les codes",null,null,null,null,null,null,null,null)
+B.XD=new A.b4("MikroTik (recommand\xe9)",null,B.eh,null,null,null,null,null,null)
+B.XE=new A.b4("R\xe9voquer",null,null,null,null,null,null,null,null)
+B.XF=new A.b4("Tableau de bord",null,null,null,null,null,null,null,null)
+B.XG=new A.b4("1. IP > Hotspot > Hotspot Setup sur l'interface Wi-Fi\n2. Dans le profil Hotspot, d\xe9finissez \"HTML Directory Override\" ou modifiez login.html pour rediriger vers votre lien portail\n3. IP > Hotspot > Walled Garden : autorisez\n   - wificonnect.soyames.com\n   - *.fedapay.com\n   - wificonnect-api.soyames.com\n4. Le client paie, re\xe7oit son code TICKET et se connecte.\n\nSi votre \xe9quipement n'a pas de portail captif (ou s'il est bloqu\xe9 par le fournisseur) : affichez simplement le lien portail ou un QR code pr\xe8s de votre point d'acc\xe8s - les clients l'ouvrent dans leur navigateur.",null,null,null,null,null,null,null,null)
 B.XH=new A.b4("Pas encore op\xe9rateur ? Cr\xe9er un compte",null,null,null,null,null,null,null,null)
 B.XI=new A.b4("Num\xe9ro qui recevra vos revenus mensuels (90% des paiements collect\xe9s).",null,B.iB,null,null,null,null,null,null)
 B.XL=new A.b4("Fermer",null,null,null,null,null,null,null,null)
